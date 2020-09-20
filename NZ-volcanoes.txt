@@ -1,0 +1,18 @@
+Name,Lat,Lon
+Hauhungatahi,-39.23,175.44
+Rainbow Mountain,-38.319,176.388
+Maungaongaonga,-38.326,176.345
+Maroa Caldera,-38.42,176.08
+Mount Maunganui,-37.630,176.171
+Mayor Island,-37.17,176.15
+Mount Ngauruhoe,-39.8,175.39
+Okataina Caldera,-38.12,176.50
+Reporoa Caldera,-38.42,176.33
+Lake Rotorua,-38.08,176.27
+Mount Ruapehu,-39.18,175.35
+Lake Taupo,-38.82,176.00
+Mount Tongariro,-39.8,175.39
+Waiotapu,-38.42,176.33
+White Island,-37.52,177.18
+Moutohora Island,-37.858,176.98
+Whakatane volcano,-36.8,177.5
